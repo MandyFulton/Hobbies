@@ -1,0 +1,60 @@
+body{ 
+background-color: honeydew; color:  grey;
+font-family: Copperplate;
+} 
+
+h1 { color: grey; } 
+
+p { font-size: 18px; } 
+
+header{ font-size: 22px; } 
+
+button{ padding: 70px; text-align: center; } 
+
+div{ margin-bottom: 100px; } 
+
+details{ font-size: 18px; } 
+
+summary{ font-size: 20px; } 
+
+img{ border: 5px solid white;
+  border-radius: 5px;
+  padding: 5px;
+  width: 275px; } 
+
+a{  text-align: right; } 
+
+footer{ font-size: 12px; } 
+
+#hobby1 { 
+background-color: Lavender;
+text-align:center; 
+color:  grey;
+font-family: 'Lucida Handwriting';
+border: 1px solid white; 
+outline-style: dotted; 
+outline-color: grey; 
+outline-width: thick; 
+} 
+
+#hobby2 { 
+background-color: LightCyan; 
+text-align:center;
+color:  grey;
+font-family: 'Lucida Handwriting';
+border: 3px solid white; 
+outline-style: double; 
+outline-color: grey; 
+outline-width: thick; 
+} 
+
+#hobby3 { 
+background-color: LavenderBlush; 
+text-align:center;
+color:  grey;
+font-family: 'Lucida Handwriting';
+border: 2px solid white; 
+outline-style: dashed; 
+outline-color: grey; 
+outline-width: thick; 
+}
